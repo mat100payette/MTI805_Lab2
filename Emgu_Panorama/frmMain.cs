@@ -7,6 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Emgu.CV;
+using Emgu.CV.UI;
+using Emgu.CV.Structure;
+using Emgu.CV.Util;
 
 namespace Emgu_Panorama
 {
